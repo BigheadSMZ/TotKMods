@@ -1,5 +1,5 @@
-# TotKMods
-Mods for The Legend of Zelda: Tears of the Kingdom
+# The Legend of Zelda: Tears of the Kingdom <br> Independent Modification Repository
+This is a collection of mods that I find useful that I am sharing with everyone so they can know which mods exist and easily install them in an organized manner.
 
 # Purpose
 Provide users with an easy method to select which essential mods they want to use. The mods are broken into eight categories.
