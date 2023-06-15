@@ -3,14 +3,14 @@ This is a collection of mods that I find useful that I am sharing with everyone 
 
 # Purpose
 Provide users with an easy method to select which essential mods they want to use. The mods are broken into eight categories.  
-- Essential: Mods that I consider to be essential in enhancing graphics. All mods can be used or no mods can be used. User selects which ones they want.
-- Resolution: The native rendering resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected.  
-- FPS: The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods.  
-- Shadows: The resolution of shadows. Modes are: 256x256, 512x512, and 1024x1024. Only one mod should be selected.  
-- Controller & Black Screen Fix: Controller mods come with black screen fix, or black screen fix can be selected independently. Only one mod should be selected.  
-- Fog: Options to enhance fog, minimize fog, and disable fog. Only one mod should be selected, unless using Serfrost which may be combined with an interior addon.  
-- Other Mods: Optional mods to enhance gameplay or make things faster. All of these are optional and do not need to be used.  
-- Cheats: Game too hard or you aren't having fun? Some cheats might liven things up. All cheats are obviously optional.  
+- **Essential:** Mods that I consider to be essential in enhancing graphics. All mods can be used or no mods can be used. User selects which ones they want.
+- **Resolution:** The native rendering resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected.  
+- **FPS:** The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods.  
+- **Shadows:** The resolution of shadows. Modes are: 256x256, 512x512, and 1024x1024. Only one mod should be selected.  
+- **Controller & Black Screen Fix:** Controller mods come with black screen fix, or black screen fix can be selected independently. Only one mod should be selected.  
+- **Fog:** Options to enhance fog, minimize fog, and disable fog. Only one mod should be selected, unless using Serfrost which may be combined with an interior addon.  
+- **Other Mods:** Optional mods to enhance gameplay or make things faster. All of these are optional and do not need to be used.  
+- **Cheats:** Game too hard or you aren't having fun? Some cheats might liven things up. All cheats are obviously optional.  
 
 # Downloading
 - Click the green **Code** button, and click **Download Zip**.
@@ -68,4 +68,4 @@ Provide users with an easy method to select which essential mods they want to us
 - **Cheat Codes**: bad1dea - [Link](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom)  
 
 # License
-All mods are covered under their respective licenses.
+All mods are covered under their respective licenses. Licensed mods have a copy of the license included in their folder, and are included in the ReadMe found in the mods folder.
