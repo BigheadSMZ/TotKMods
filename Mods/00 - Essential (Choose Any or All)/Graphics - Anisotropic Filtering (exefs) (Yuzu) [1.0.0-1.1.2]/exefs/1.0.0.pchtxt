@@ -1,0 +1,14 @@
+@nsobid-082CE09B06E33A123CB1E2770F5F9147709033DB
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Set mipmap filter to nearest on shadow map sampler (maybe fixes something, maybe breaks something)
+@enabled
+00895558 28E0A0F2
+@stop
+
+// Force bilinear terrain samplers to be trilinear
+@enabled
+0070CD2C 4A008052
+@stop

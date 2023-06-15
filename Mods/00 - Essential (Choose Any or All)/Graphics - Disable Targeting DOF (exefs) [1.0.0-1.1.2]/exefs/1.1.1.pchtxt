@@ -1,0 +1,9 @@
+@nsobid-168DD518D925C7A327677286E72FEDA833314919
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Removes the DOF effect when targeting
+@enabled
+00C25898 C0035FD6
+@stop

@@ -1,0 +1,9 @@
+@nsobid-168DD518D925C7A327677286E72FEDA833314919
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Disable quality reduction when framerate dips
+@enabled
+00CC1C2C C0000014
+@stop
