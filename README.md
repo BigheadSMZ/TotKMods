@@ -11,10 +11,12 @@ Provide users with an easy method to select which essential mods they want to us
 05. Fog: Options to enhance fog, minimize fog, and disable fog. Only one mod should be selected, unless using Serfrost which may be combined with an interior addon.
 06. Other Mods: Optional mods to enhance gameplay or make things faster. All of these are optional and do not need to be used.
 07. Cheats: Game too hard or you aren't having fun? Some cheats might liven things up. All cheats are obviously optional.
- 
+
+# Downloading
+- Click the green **Code** button, and click **Download Zip**.
+
 # Information
-- A simplified modpack that includes what I consider to be the essential mods.
-- This pack was not made to compete with existing modpacks such as the pack by HolographicWings or the collection by Jazzverso, but provide an alternative for those that wish to have complete control over their mods by keeping each module separate. This modpack also prefers to provide exefs versions of mods over romfs versions if possible to avoid the potential for mod conflicts.
+- A simplified modpack that includes what I consider to be the essential mods offered in an organized manner.
 - Most "romfs" mods are licensed under "CC BY-NC-ND 4.0", which allows sharing the material in any medium or format. 
 - The restictions are that credit must be given, a link to the license must be included, and changes must be made aware. 
 - The mods covered under this license can not be sold for profit, and no derivatives can be created from them. 
@@ -23,6 +25,12 @@ Provide users with an easy method to select which essential mods they want to us
 - Links to all mods, their creator, and their licenses are provided.
 - With all that said, if a mod creator does not wish to have their mods included, I will remove them from future packs and instead just provide users with a link to the mod in their place IF I find their argument reasonable. Something like "I don't want my mod in there because I don't like you" or "this just creates confusion or competition" is not a good reason to deprive users of choice. While removing mods would be less convenient for everyone, I intend to comply with the authors and their respective mods and licenses.
 - With all that legalese out of the way, I hope this is useful to you, the user who has downloaded this modpack.
+
+# Notice
+- I will not be releasing "versions" of this collection, WYSIWYG.
+- While I will take issues and pull requests, I do not promise I will be actively updating this repository but I will try.
+- I highly encourage checking the links in the **Credits** section as the authors of the mods may have more up-to-date versions than what is provided here.
+- This pack was not made to compete with existing modpacks such as the pack by HolographicWings or the collection by Jazzverso, but provide an alternative for those that wish to have complete control over their mods by keeping each module separate. This modpack also prefers to provide exefs versions of mods over romfs versions if possible to avoid the potential for mod conflicts.
 
 # Credits
 - **TOTK-Mods-Collection:** - HolographicWings - [Link](https://github.com/HolographicWings/TOTK-Mods-collection)
