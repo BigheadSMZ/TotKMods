@@ -1,6 +1,5 @@
 Simplified TotK Modpack
-
-Credit goes to authors of all mods.
+Credit goes to authors of all mods
 
 Information:
 - A simplified modpack that includes what I consider to be the essential mods.
@@ -216,13 +215,6 @@ Information:
   -- \Mals\EUen.Product.110.sarc.zs
   -- \Mals\USen.Product.110.sarc.zs
 
-  No Shield Damage From Surfing
-  - EternalHabit
-  - https://gamebanana.com/mods/445577
-  - https://creativecommons.org/licenses/by-nc-nd/4.0/
-  -- \Pack\Actor\Weapon_Shield_*.pack.zs
-  -- \Pack\Actor\Weapon_Shield_*_NoBurned.pack.zs
-
   Streamlined Reptitive Events
   - CptCarl
   - https://gamebanana.com/mods/446768
@@ -257,13 +249,3 @@ Information:
   Remove Lens Flare 
   - SweetMini
   - exefs
-
-
-
-
-
-
-
-
-
-
