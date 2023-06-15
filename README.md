@@ -27,12 +27,13 @@ Provide users with an easy method to select which essential mods they want to us
 - With all that legalese out of the way, I hope this is useful to you, the user who has downloaded this modpack.
 
 # Notice
-- I will not be releasing "versions" of this collection, WYSIWYG.
-- While I will take issues and pull requests, I do not promise I will be actively updating this repository but I will try.
+- I do not create these mods, I am merely offering them in a way that is simple for the user to make use of. Take any issues with the mods themselves to their respective creators.
+- I will not be releasing "versions" of this collection, WYSIWYG. They can be downloaded independently through navigating this repository or by downloading the "code" as a "zip".
+- While I will accept issues and pull requests, they should only be made to alert me of or commit updated mods. I do not promise I will be actively updating this repository but I will try.
 - I highly encourage checking the links in the **Credits** section as the authors of the mods may have more up-to-date versions than what is provided here.
 - This pack was not made to compete with existing modpacks such as the pack by HolographicWings or the collection by Jazzverso, but provide an alternative for those that wish to have complete control over their mods by keeping each module separate. This modpack also prefers to provide exefs versions of mods over romfs versions if possible to avoid the potential for mod conflicts.
 
-# Credits
+# Credits / Links
 - **TOTK-Mods-Collection:** - HolographicWings - [Link](https://github.com/HolographicWings/TOTK-Mods-collection)
 - **Dynamic FPS**: ChucksFeedAndSeed - [Link](https://www.reddit.com/user/ChucksFeedAndSeed/comments/140nyft/totk_dynamic_fps_v152_release_stutter/)  
 - **Yuzu Anisotropic Filtering Fix**: Wollnashorn - [Link](https://github.com/Wollnashorn/switch-mods/tree/master/0100F2C0115B6000/)  
