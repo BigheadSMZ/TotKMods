@@ -2,15 +2,15 @@
 This is a collection of mods that I find useful that I am sharing with everyone so they can know which mods exist and easily install them in an organized manner.
 
 # Purpose
-Provide users with an easy method to select which essential mods they want to use. The mods are broken into eight categories.
-00. Essential: Mods that I consider to be essential in enhancing graphics. All mods can be used or no mods can be used. User selects which ones they want.
-01. Resolution: The native rendering resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected.
-02. FPS: The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods.
-03. Shadows: The resolution of shadows. Modes are: 256x256, 512x512, and 1024x1024. Only one mod should be selected.
-04. Controller & Black Screen Fix: Controller mods come with black screen fix, or black screen fix can be selected independently. Only one mod should be selected.
-05. Fog: Options to enhance fog, minimize fog, and disable fog. Only one mod should be selected, unless using Serfrost which may be combined with an interior addon.
-06. Other Mods: Optional mods to enhance gameplay or make things faster. All of these are optional and do not need to be used.
-07. Cheats: Game too hard or you aren't having fun? Some cheats might liven things up. All cheats are obviously optional.
+Provide users with an easy method to select which essential mods they want to use. The mods are broken into eight categories.  
+- Essential: Mods that I consider to be essential in enhancing graphics. All mods can be used or no mods can be used. User selects which ones they want.
+- Resolution: The native rendering resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected.  
+- FPS: The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods.  
+- Shadows: The resolution of shadows. Modes are: 256x256, 512x512, and 1024x1024. Only one mod should be selected.  
+- Controller & Black Screen Fix: Controller mods come with black screen fix, or black screen fix can be selected independently. Only one mod should be selected.  
+- Fog: Options to enhance fog, minimize fog, and disable fog. Only one mod should be selected, unless using Serfrost which may be combined with an interior addon.  
+- Other Mods: Optional mods to enhance gameplay or make things faster. All of these are optional and do not need to be used.  
+- Cheats: Game too hard or you aren't having fun? Some cheats might liven things up. All cheats are obviously optional.  
 
 # Downloading
 - Click the green **Code** button, and click **Download Zip**.
