@@ -37,7 +37,7 @@ Provide users with an easy method to select which essential mods they want to us
 - If you have any issues with the mods, I suggest notifying their respective creator and alerting them of the issue.  
 - I will not be releasing "versions" of this collection. The pack will contain whatever is offered and downloaded at the time of downloading. Mods can be downloaded independently through navigating this repository or by downloading all via the green "Code" button as a ZIP.
 - While I will accept issues and pull requests, they should only be made to alert me of or commit updated mods. I do not promise I will be actively updating this repository but I will try to at least keep it somewhat updated.
-- I highly encourage checking the links in the **Credits** section as the authors of the mods may have more up-to-date versions than what is provided here. It is also a good way to engage with the creators and offer your support.
+- I highly encourage checking the links in the **Credits** section as the authors of the mods may have more up-to-date versions than what is provided here. It's also a good way to engage with the creators and offer support.
 - This pack was not made to compete with existing modpacks such as the pack by HolographicWings or the collection by Jazzverso, but provide an alternative for those that wish to have complete control over their mods by keeping each module separate. This modpack also prefers to provide exefs versions of mods over romfs versions if possible to avoid the potential for mod conflicts.
 
 # Credits / Links
