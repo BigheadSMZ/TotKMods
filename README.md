@@ -4,7 +4,7 @@ This is a collection of useful mods I am sharing with everyone so they can know 
 ![](https://raw.githubusercontent.com/BigheadSMZ/TotKMods/main/preview.jpg)
 
 # Purpose
-Provide users with an easy method to select which essential mods they want to use. The mods are broken into eight categories.  
+Provide users with an easy method to select which mods they want to use. Mods are broken into eight categories.  
 - **Essential:** Mods that I consider to be essential in enhancing graphics. User may pick any and/or all mods here. 
 - **Resolution:** Native resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected. Users with a 1440p screen should be fine with 1008p and 2x Internal Resolution in the emulator.
 - **FPS:** The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods. Without it, gameplay will slowdown when FPS drops.
