@@ -5,7 +5,7 @@ This is a collection of mods that I find useful that I am sharing with everyone 
 
 # Purpose
 Provide users with an easy method to select which essential mods they want to use. The mods are broken into eight categories.  
-- **Essential:** Mods that I consider to be essential in enhancing graphics. All mods can be used or no mods can be used. User selects which ones they want.
+- **Essential:** Mods that I consider to be essential in enhancing graphics. User may pick any and/or all mods here. 
 - **Resolution:** Native resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected.  
 - **FPS:** The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods.  
 - **Shadows:** Modes are: 256x256, 512x512, and 1024x1024 resolution. Only one mod should be selected.  
