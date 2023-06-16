@@ -1,5 +1,5 @@
 # The Legend of Zelda: Tears of the Kingdom <br> Modification Repository
-This is a collection of mods that I find useful that I am sharing with everyone so they can know which mods exist and easily install them in an organized manner.
+This is a collection of mods that I find useful that I am sharing with everyone so they can know which mods exist and easily install them in an organized manner. All mods are seperate and named to provide an abundance of information at a glance.
 
 ![](https://raw.githubusercontent.com/BigheadSMZ/TotKMods/main/preview.jpg)
 
