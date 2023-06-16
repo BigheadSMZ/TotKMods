@@ -1,4 +1,4 @@
-# The Legend of Zelda: Tears of the Kingdom <br> Independent Modification Repository
+# The Legend of Zelda: Tears of the Kingdom <br> Modification Repository
 This is a collection of mods that I find useful that I am sharing with everyone so they can know which mods exist and easily install them in an organized manner.
 
 ![](https://raw.githubusercontent.com/BigheadSMZ/TotKMods/main/preview.jpg)
