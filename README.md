@@ -7,7 +7,7 @@ Provide users with an easy method to select which essential mods they want to us
 - **Resolution:** The native rendering resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected.  
 - **FPS:** The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods.  
 - **Shadows:** The resolution of shadows. Modes are: 256x256, 512x512, and 1024x1024. Only one mod should be selected.  
-- **Controller & Black Screen Fix:** Controller mods come with black screen fix, or black screen fix can be selected independently. Only one mod should be selected.  
+- **Controller & Black Screen Fix:** Controller mods come with black screen fix, or black screen fix can be selected alone. Only one mod should be selected. Alternatively, go use the [Any Aspect Ratio](https://github.com/fayaz12g/totk-aar) tool to create your own aspect ratio, controller mod, with black screen fix.
 - **Fog:** Options to enhance fog, minimize fog, and disable fog. Only one mod should be selected, unless using Serfrost which may be combined with an interior addon.  
 - **Other Mods:** Optional mods to enhance gameplay or make things faster. All of these are optional and do not need to be used.  
 - **Cheats:** Game too hard or you aren't having fun? Some cheats might liven things up. All cheats are obviously optional.  
@@ -25,6 +25,9 @@ Provide users with an easy method to select which essential mods they want to us
 - Links to all mods, their creator, and their licenses are provided.
 - With all that said, if a mod creator does not wish to have their mods included, I will remove them from future packs and instead just provide users with a link to the mod in their place IF I find their argument reasonable. Something like "I don't want my mod in there because I don't like you" or "this just creates confusion or competition" is not a good reason to deprive users of choice. While removing mods would be less convenient for everyone, I intend to comply with the authors and their respective mods and licenses.
 - With all that legalese out of the way, I hope this is useful to you, the user who has downloaded this modpack.
+
+# Aspect Ratio Mods
+- I am not supplying Aspect Ratio mods as there is a fantastic tool by [fayaz12g](https://github.com/fayaz12g) to generate a mod using your preferred aspect ratio, a controller mod, and a black screen fix. That tool is called [Any Aspect Ratio](https://github.com/fayaz12g/totk-aar) and can be used as an alternative to the controller/black screen fix mods found here, on gamebanana, or anywhere else. Currently modifying aspect ratios can be complicating due to several romfs mods all attempting to edit the same files. This tool easily solves that problem by editing them all at once!
 
 # Notice
 - I do not create these mods, I am merely offering them in a way that is simple for the user to make use of. Take any issues with the mods themselves to their respective creators.
