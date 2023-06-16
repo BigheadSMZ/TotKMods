@@ -215,6 +215,12 @@ Information:
   -- \Mals\EUen.Product.110.sarc.zs
   -- \Mals\USen.Product.110.sarc.zs
 
+  No Loot Boxes (Guaranteed Amiibo Armor Drops)
+  - jordanbtucker
+  - https://gamebanana.com/mods/443894
+  - https://opensource.org/license/mit/
+  -- \Pack\ResidentCommon.pack.zs
+
   Streamlined Reptitive Events
   - CptCarl
   - https://gamebanana.com/mods/446768
