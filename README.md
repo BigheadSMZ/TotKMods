@@ -24,7 +24,7 @@ Provide users with an easy method to select which essential mods they want to us
 - The restictions are that credit must be given, a link to the license included, and changes be made aware of. 
 - The mods covered under this license can not be sold for profit, and no derivatives can be created from them. 
 - This pack makes no attempt to modify the mods, but redistribute them in a way that complies with their licenses.
-- An argument could be made that including them in a "modpack" could qualify this as a "remix". The counter argument to this is that several other modpacks and various places on the internet also include the majority of the mods here, and its not a modpack that the user can just extract and install with a drag and drop. All mods are provided in their original form: no modifications.  
+- An argument could be made that including them in a "modpack" could qualify this as a "remix". The counter argument to this is that several other modpacks and various places on the internet also include the majority of the mods here, and its not a modpack that the user can just extract and install with a drag and drop. All mods are provided in their original form: no modifications by me.  
 - This collection is not a work that attempts to create a new work, each mod stands on their own and are not dependent on and may conflict with other mods. Conscious choice needs to be made on what mods are selected by the user.
 - With all that said, if a mod creator does not wish to have their mods included, I will remove them from future packs and instead just provide users with a link to the mod in their place IF I find their argument reasonable. Something like "I don't want my mod in there because I don't like you" or "this just creates confusion or competition" is not a good reason to deprive users of choice. While removing mods would be less convenient for everyone, I intend to comply with the authors and their respective mods and licenses.
 - With all that legalese out of the way, I hope this is useful to you, the user who has downloaded this modpack.
@@ -33,10 +33,11 @@ Provide users with an easy method to select which essential mods they want to us
 - I am not supplying Aspect Ratio mods as there is a fantastic tool by [fayaz12g](https://github.com/fayaz12g) to generate a mod using your preferred aspect ratio, a controller mod, and a black screen fix. That tool is called [Any Aspect Ratio](https://github.com/fayaz12g/totk-aar) and can be used as an alternative to the controller/black screen fix mods found here, on gamebanana, or anywhere else. Currently modifying aspect ratios can be complicating due to several romfs mods all attempting to edit the same files. This tool easily solves that problem by editing them all at once!
 
 # Notice
-- I do not create these mods, I am merely offering them in a way that is simple for the user to make use of. Take any issues with the mods themselves to their respective creators.
+- I do not create these mods, I am merely offering them in a way that is simple for the user to make use of.
+- If you have any issues with the mods, I suggest notifying their respective creator and alerting them of the issue.  
 - I will not be releasing "versions" of this collection, WYSIWYG. They can be downloaded independently through navigating this repository or by downloading the "code" as a "zip".
-- While I will accept issues and pull requests, they should only be made to alert me of or commit updated mods. I do not promise I will be actively updating this repository but I will try.
-- I highly encourage checking the links in the **Credits** section as the authors of the mods may have more up-to-date versions than what is provided here.
+- While I will accept issues and pull requests, they should only be made to alert me of or commit updated mods. I do not promise I will be actively updating this repository but I will try to at least keep it somewhat updated.
+- I highly encourage checking the links in the **Credits** section as the authors of the mods may have more up-to-date versions than what is provided here. It is also a good way to engage with the creators and offer your support.
 - This pack was not made to compete with existing modpacks such as the pack by HolographicWings or the collection by Jazzverso, but provide an alternative for those that wish to have complete control over their mods by keeping each module separate. This modpack also prefers to provide exefs versions of mods over romfs versions if possible to avoid the potential for mod conflicts.
 
 # Credits / Links
