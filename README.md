@@ -1,6 +1,8 @@
 # The Legend of Zelda: Tears of the Kingdom <br> Independent Modification Repository
 This is a collection of mods that I find useful that I am sharing with everyone so they can know which mods exist and easily install them in an organized manner.
 
+![](https://raw.githubusercontent.com/BigheadSMZ/TotKMods/main/preview.jpg)
+
 # Purpose
 Provide users with an easy method to select which essential mods they want to use. The mods are broken into eight categories.  
 - **Essential:** Mods that I consider to be essential in enhancing graphics. All mods can be used or no mods can be used. User selects which ones they want.
