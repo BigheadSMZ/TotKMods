@@ -34,38 +34,38 @@ Provide users with an easy method to select which essential mods they want to us
 - This pack was not made to compete with existing modpacks such as the pack by HolographicWings or the collection by Jazzverso, but provide an alternative for those that wish to have complete control over their mods by keeping each module separate. This modpack also prefers to provide exefs versions of mods over romfs versions if possible to avoid the potential for mod conflicts.
 
 # Credits / Links
-- **TOTK-Mods-Collection:** - HolographicWings - [Link](https://github.com/HolographicWings/TOTK-Mods-collection)
-- **Dynamic FPS**: ChucksFeedAndSeed - [Link](https://www.reddit.com/user/ChucksFeedAndSeed/comments/140nyft/totk_dynamic_fps_v152_release_stutter/)  
-- **Yuzu Anisotropic Filtering Fix**: Wollnashorn - [Link](https://github.com/Wollnashorn/switch-mods/tree/master/0100F2C0115B6000/)  
-- **Disable FSR Downscaling**: patchanon / ChucksFeedAndSeed - [Link](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/)  
-- **Disable FXAA**: OldManKain / theboy181 / InfiniteParallel / Father_Of_Egg - [Link](https://www.reddit.com/r/128bitbay/comments/149h87n/totk_disable_fxaa_exefs_patch_method_110_through/)  
-- **Disable LOD Reduction**: ChucksFeedAndSeed - [Link](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/)  
-- **Disable Targeting DOF**: theboy181 - [Link](https://github.com/theboy181/switch-ptchtxt-mods)  
-- **LOD Improvement**: SweetMini - [Link](https://github.com/HolographicWings/TOTK-Mods-collection)  
-- **Sky Island Fix**: SweetMini - [Link](https://github.com/HolographicWings/TOTK-Mods-collection)  
-- **1280x720 Resolution / 1440x810 Resolution**: bad1dea - [Link](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom)  
-- **1792x1008 Resolution**: ChucksFeedAndSeed - [Link](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/)  
-- **1920x1080 Resolution**: ChucksFeedAndSeed / OldManKain - [Link](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/)  
-- **20/30/60 FPS**: patchanon / somerandompeople / ChucksFeedAndSeed - [Link](https://gbatemp.net/download/loz-tears-of-the-kingdom-dynamic-fps-static-fps-and-visual-fixes-patch-collection.37996/)  
-- **Shadow Resolution**: ChucksFeedAndSeed - [Link](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/)  
-- **Black Screen Fix**: MarethyuX  
-- **Alerion921's DualSense v11.5/v12.2/v12.3**: Alerion921 - [Link](https://gamebanana.com/mods/443201)  
-- **Alerion921's Xbox v9**: Alerion921 - [Link](https://gamebanana.com/mods/443354)  
-- **Alerion921's Steam Controller**: Alerion921 - [Link](https://gamebanana.com/mods/448437)  
-- **Alerion921's Steamdeck**: Alerion921 - [Link](https://gamebanana.com/mods/447721)  
-- **StavaasEVG's DualSense v1.4**: StavaasEVG - [Link](https://gamebanana.com/mods/445517)  
-- **Keyboard and Mouse UI**: leondre14 - [Link](https://gamebanana.com/mods/449427)  
-- **Xbox UI v2-0.8.2**: balinwon - [Link](https://gamebanana.com/mods/443336)  
-- **Serfrost's Defogger**: Serfrost - [Link](https://gamebanana.com/mods/446995)  
-- **Better Fog / Fog Disabled**: yakuzadeso - [Link](https://gamebanana.com/mods/447492)  
-- **Autobuild No Cost**: Jazzverso - [Link](https://gamebanana.com/mods/449749)  
-- **Auto-Loot Zonaite**: Ghuraok - [Link](https://gamebanana.com/mods/445703)  
-- **Camera Sensitivity**: TallgeeseIV - [Link](https://gamebanana.com/mods/443927)  
-- **Dialog Fixes**: verbes555 - [Link](https://gamebanana.com/mods/445178)  
-- **No Shield Damage From Surfing**: EternalHabit - [Link](https://gamebanana.com/mods/445577)  
-- **Streamlined Reptitive Events**: CptCarl - [Link](https://gamebanana.com/mods/446768)  
-- **Remove Lens Flare**: SweetMini - [Link](https://github.com/HolographicWings/TOTK-Mods-collection)  
-- **Cheat Codes**: bad1dea - [Link](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom)  
+- [**TOTK-Mods-Collection**](https://github.com/HolographicWings/TOTK-Mods-collection): HolographicWings  
+- [**Dynamic FPS**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/140nyft/totk_dynamic_fps_v152_release_stutter/): ChucksFeedAndSeed  
+- [**Yuzu Anisotropic Filtering Fix**](https://github.com/Wollnashorn/switch-mods/tree/master/0100F2C0115B6000/): Wollnashorn  
+- [**Disable FSR Downscaling**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): patchanon / ChucksFeedAndSeed  
+- [**Disable FXAA**](https://www.reddit.com/r/128bitbay/comments/149h87n/totk_disable_fxaa_exefs_patch_method_110_through/): OldManKain / theboy181 / InfiniteParallel / Father_Of_Egg  
+- [**Disable LOD Reduction**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed 
+- [**Disable Targeting DOF**](https://github.com/theboy181/switch-ptchtxt-mods): theboy181
+- [**Remove Lens Flare**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini  
+- [**LOD Improvement**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini  
+- [**Sky Island Fix**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini  
+- [**1280x720 Resolution**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea  
+- [**1440x810 Resolution**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea  
+- [**1792x1008 Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed  
+- [**1920x1080 Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed / OldManKain  
+- [**20/30/60 FPS**](https://gbatemp.net/download/loz-tears-of-the-kingdom-dynamic-fps-static-fps-and-visual-fixes-patch-collection.37996/): patchanon / somerandompeople / ChucksFeedAndSeed  
+- [**Shadow Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed  
+- [**Black Screen Fix**](https://www.youtube.com/watch?v=dQw4w9WgXcQ): MarethyuX  
+- [**Alerion921's DualSense v11.5/v12.2/v12.3**](https://gamebanana.com/mods/443201): Alerion921  
+- [**Alerion921's Xbox v9**](https://gamebanana.com/mods/443354): Alerion921  
+- [**Alerion921's Steam Controller**](https://gamebanana.com/mods/448437): Alerion921  
+- [**Alerion921's Steamdeck**](https://gamebanana.com/mods/447721): Alerion921  
+- [**StavaasEVG's DualSense v1.4**](https://gamebanana.com/mods/445517): StavaasEVG  
+- [**Keyboard and Mouse UI**](https://gamebanana.com/mods/449427): leondre14
+- [**Xbox UI v2-0.8.2**](https://gamebanana.com/mods/443336): balinwon  
+- [**Serfrost's Defogger**](https://gamebanana.com/mods/446995): Serfrost  
+- [**Better Fog / Fog Disabled**](https://gamebanana.com/mods/447492): yakuzadeso  
+- [**Autobuild No Cost**](https://gamebanana.com/mods/449749): Jazzverso  
+- [**Auto-Loot Zonaite**](https://gamebanana.com/mods/445703): Ghuraok  
+- [**Camera Sensitivity**](https://gamebanana.com/mods/443927): TallgeeseIV    
+- [**Dialog Fixes**](https://gamebanana.com/mods/445178): verbes555  
+- [**Streamlined Reptitive Events**](https://gamebanana.com/mods/446768): CptCarl
+- [**Cheat Codes**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea
 
 # License
 All mods are covered under their respective licenses. Licensed mods have a copy of the license included in their folder, and are included in the ReadMe found in the mods folder.
