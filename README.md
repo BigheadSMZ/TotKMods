@@ -6,9 +6,9 @@ This is a collection of mods that I find useful that I am sharing with everyone 
 # Purpose
 Provide users with an easy method to select which essential mods they want to use. The mods are broken into eight categories.  
 - **Essential:** Mods that I consider to be essential in enhancing graphics. All mods can be used or no mods can be used. User selects which ones they want.
-- **Resolution:** The native rendering resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected.  
+- **Resolution:** Native resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected.  
 - **FPS:** The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods.  
-- **Shadows:** The resolution of shadows. Modes are: 256x256, 512x512, and 1024x1024. Only one mod should be selected.  
+- **Shadows:** Modes are: 256x256, 512x512, and 1024x1024 resolution. Only one mod should be selected.  
 - **Controller & Black Screen Fix:** Controller mods come with black screen fix, or black screen fix can be selected alone. Only one mod should be selected. Alternatively, go use the [Any Aspect Ratio](https://github.com/fayaz12g/totk-aar) tool to create your own aspect ratio, controller mod, with black screen fix.
 - **Fog:** Options to enhance fog, minimize fog, and disable fog. Only one mod should be selected, unless using Serfrost which may be combined with an interior addon.  
 - **Other Mods:** Optional mods to enhance gameplay or make things faster. All of these are optional and do not need to be used.  
@@ -19,12 +19,12 @@ Provide users with an easy method to select which essential mods they want to us
 
 # Information
 - A simplified modpack that includes what I consider to be the essential mods offered in an organized manner.
-- Most "romfs" mods are licensed under "CC BY-NC-ND 4.0", which allows sharing the material in any medium or format. 
-- The restictions are that credit must be given, a link to the license must be included, and changes must be made aware. 
+- Links to all mods, their creator, and their licenses are provided with this collection.
+- Most "romfs" mods are licensed under "CC BY-NC-ND 4.0", which allows sharing them in any medium or format. 
+- The restictions are that credit must be given, a link to the license included, and changes be made aware of. 
 - The mods covered under this license can not be sold for profit, and no derivatives can be created from them. 
 - This pack makes no attempt to modify the mods, but redistribute them in a way that complies with their licenses.
 - An argument could be made that including them in a "modpack" could qualify this as a "remix". The counter argument to this is that its not a pack that the user can just extract and install. It's not a work that attempts to create a new work, each mod stands on their own and may conflict with other mods. Conscious choice needs to be made on what mods are selected by the user.
-- Links to all mods, their creator, and their licenses are provided.
 - With all that said, if a mod creator does not wish to have their mods included, I will remove them from future packs and instead just provide users with a link to the mod in their place IF I find their argument reasonable. Something like "I don't want my mod in there because I don't like you" or "this just creates confusion or competition" is not a good reason to deprive users of choice. While removing mods would be less convenient for everyone, I intend to comply with the authors and their respective mods and licenses.
 - With all that legalese out of the way, I hope this is useful to you, the user who has downloaded this modpack.
 
