@@ -76,4 +76,4 @@ Provide users with an easy method to select which essential mods they want to us
 - [**Cheat Codes**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea
 
 # License
-All mods are covered under their respective licenses. Licensed mods have a copy of the license included in their folder, and are included in the ReadMe found in the mods folder.
+All mods are covered under their respective licenses. Licensed mods have a copy of the license included in their folder, and are included in the [ReadMe](https://github.com/BigheadSMZ/TotKMods/blob/main/Mods/ReadMe%20-%20Credits%2C%20Info%2C%20License.txt) found in the mods folder.
