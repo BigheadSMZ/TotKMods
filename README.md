@@ -6,7 +6,7 @@ This is a collection of mods that I find useful that I am sharing with everyone 
 # Purpose
 Provide users with an easy method to select which essential mods they want to use. The mods are broken into eight categories.  
 - **Essential:** Mods that I consider to be essential in enhancing graphics. User may pick any and/or all mods here. 
-- **Resolution:** Native resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected.  
+- **Resolution:** Native resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected. Users with a 1440p screen should be fine with 1008p and 2x Internal Resolution in the emulator.
 - **FPS:** The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods. Without it, gameplay will slowdown when FPS drops.
 - **Shadows:** Modes are: 256x256, 512x512, and 1024x1024 resolution. Only one mod should be selected.  
 - **Controller & Black Screen Fix:** Controller mods come with black screen fix, or black screen fix can be selected alone. Only one mod should be selected. Alternatively, go use the [Any Aspect Ratio](https://github.com/fayaz12g/totk-aar) tool to create your own aspect ratio, controller mod, with black screen fix.
