@@ -7,7 +7,7 @@ This is a collection of mods that I find useful that I am sharing with everyone 
 Provide users with an easy method to select which essential mods they want to use. The mods are broken into eight categories.  
 - **Essential:** Mods that I consider to be essential in enhancing graphics. User may pick any and/or all mods here. 
 - **Resolution:** Native resolution. Modes are: 1280x720, 1440x810, 1792x1008, 1920x1080. Only one mod should be selected.  
-- **FPS:** The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods.  
+- **FPS:** The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods. Without it, gameplay will slowdown when FPS drops.
 - **Shadows:** Modes are: 256x256, 512x512, and 1024x1024 resolution. Only one mod should be selected.  
 - **Controller & Black Screen Fix:** Controller mods come with black screen fix, or black screen fix can be selected alone. Only one mod should be selected. Alternatively, go use the [Any Aspect Ratio](https://github.com/fayaz12g/totk-aar) tool to create your own aspect ratio, controller mod, with black screen fix.
 - **Fog:** Options to enhance fog, minimize fog, and disable fog. Only one mod should be selected, unless using Serfrost which may be combined with an interior addon.  
