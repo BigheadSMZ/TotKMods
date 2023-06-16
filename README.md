@@ -68,7 +68,8 @@ Provide users with an easy method to select which essential mods they want to us
 - [**Autobuild No Cost**](https://gamebanana.com/mods/449749): Jazzverso  
 - [**Auto-Loot Zonaite**](https://gamebanana.com/mods/445703): Ghuraok  
 - [**Camera Sensitivity**](https://gamebanana.com/mods/443927): TallgeeseIV    
-- [**Dialog Fixes**](https://gamebanana.com/mods/445178): verbes555  
+- [**Dialog Fixes**](https://gamebanana.com/mods/445178): verbes555
+- [**No Loot Boxes**](https://gamebanana.com/mods/443894): jordanbtucker  
 - [**Streamlined Reptitive Events**](https://gamebanana.com/mods/446768): CptCarl
 - [**Cheat Codes**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea
 
