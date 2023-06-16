@@ -10,7 +10,7 @@ Provide users with an easy method to select which essential mods they want to us
 - **FPS:** The maximum framerate. Modes are: 20 FPS, 30 FPS, or 60 FPS. Only one mod should be selected. Used in conjunction with Dynamic FPS from Essential mods. Without it, gameplay will slowdown when FPS drops.
 - **Shadows:** Modes are: 256x256, 512x512, and 1024x1024 resolution. Only one mod should be selected.  
 - **Controller & Black Screen Fix:** Controller mods come with black screen fix, or black screen fix can be selected alone. Only one mod should be selected. Alternatively, go use the [Any Aspect Ratio](https://github.com/fayaz12g/totk-aar) tool to create your own aspect ratio, controller mod, with black screen fix.
-- **Fog:** Options to minimize or disable fog. Only one mod should be selected, unless using Serfrost's Defogger which may be combined with an interior addon. This is optional, and other fog mods already include interiors.
+- **Fog:** Options to minimize or disable fog. Only one mod should be selected, unless using Serfrost's Defogger which may be combined with an interior addon. This is optional, and other fog mods already include interior fog so don't combine them.
 - **Other Mods:** Optional mods to enhance gameplay or make things faster. All of these are optional and do not need to be used.  
 - **Cheats:** Game too hard or you aren't having fun? Some cheats might liven things up. All cheats are obviously optional.  
 
