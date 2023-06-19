@@ -48,9 +48,9 @@ Provide users with an easy method to select which mods they want to use. Mods ar
 - [**Disable FXAA**](https://www.reddit.com/r/128bitbay/comments/149h87n/totk_disable_fxaa_exefs_patch_method_110_through/): OldManKain / theboy181 / InfiniteParallel / Father_Of_Egg  
 - [**Disable LOD Reduction**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed 
 - [**Disable Targeting DOF**](https://github.com/theboy181/switch-ptchtxt-mods): theboy181
-- [**Remove Lens Flare**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini  
-- [**LOD Improvement**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini  
-- [**Sky Island Fix**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini  
+- [**Remove Lens Flare**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini, ports by MaxLastBreath and StevenssND  
+- [**LOD Improvement**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini, port by StevenssND
+- [**Sky Island Fix**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini, ports by MaxLastBreath and StevenssND
 - [**1280x720 Resolution**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea  
 - [**1440x810 Resolution**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea  
 - [**1792x1008 Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed  
