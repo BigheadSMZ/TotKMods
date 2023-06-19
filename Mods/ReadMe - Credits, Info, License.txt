@@ -47,12 +47,16 @@ Information:
   - exefs
   
   LOD Improvement
-  - SweetMini
+  - SweetMini / StevenssND
   - https://github.com/HolographicWings/TOTK-Mods-collection
   - exefs
-  
+
+  Remove Lens Flare 
+  - SweetMini / MaxLastBreath / StevenssND
+  - exefs
+
   Sky Island Fix 
-  - SweetMini
+  - SweetMini / MaxLastBreath / StevenssND
   - https://github.com/HolographicWings/TOTK-Mods-collection
   - exefs
 
@@ -252,6 +256,4 @@ Information:
   -- \Event\EventFlow\DmF_SY_SmallDungeonGoal.101.bfevfl.zs (Shrine Events)
   -- \Event\EventFlow\DmF_SY_RecycleBox.101.bfevfl.zs (Zonai Dispensers)
 
-  Remove Lens Flare 
-  - SweetMini
-  - exefs
+
