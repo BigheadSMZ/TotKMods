@@ -3,7 +3,7 @@
 @flag print_values
 @flag offset_shift 0x100
 
-// Force 1080p
+// 1920x1080 Resolution
 @enabled
 00CDD58C 15000014
 @stop
