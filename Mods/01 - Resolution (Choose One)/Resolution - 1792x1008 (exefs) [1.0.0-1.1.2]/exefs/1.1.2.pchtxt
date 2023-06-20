@@ -3,7 +3,7 @@
 @flag print_values
 @flag offset_shift 0x100
 
-// Use 1792x1008 internal resolution instead of 1600x900
+// 1792x1008 Resolution
 @enabled
 00CDD3C4 F50300AA
 00CDD3C8 2D52FE97
