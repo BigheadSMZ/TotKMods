@@ -48,16 +48,16 @@ Provide users with an easy method to select which mods they want to use. Mods ar
 - [**Disable FXAA**](https://www.reddit.com/r/128bitbay/comments/149h87n/totk_disable_fxaa_exefs_patch_method_110_through/): OldManKain / theboy181 / InfiniteParallel / Father_Of_Egg  
 - [**Disable LOD Reduction**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed 
 - [**Disable Targeting DOF**](https://github.com/theboy181/switch-ptchtxt-mods): theboy181
-- [**Remove Lens Flare**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini, ports by MaxLastBreath and StevenssND  
-- [**LOD Improvement**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini, port by StevenssND
-- [**Sky Island Fix**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini, ports by MaxLastBreath and StevenssND
+- [**Remove Lens Flare**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / port 1.0.0 by MaxLastBreath / port 1.1.1 by StevenssND  
+- [**LOD Improvement**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / port 1.1.1 by StevenssND
+- [**Sky Island Fix**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / port 1.0.0 by MaxLastBreath / port 1.1.1 byStevenssND
 - [**1280x720 Resolution**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea  
 - [**1440x810 Resolution**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea  
-- [**1792x1008 Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed  
-- [**1920x1080 Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed / OldManKain  
+- [**1792x1008 Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed / port 1.0.0 by MaxLastBreath 
+- [**1920x1080 Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed / OldManKain / MaxLastBreath
 - [**20/30/60 FPS**](https://gbatemp.net/download/loz-tears-of-the-kingdom-dynamic-fps-static-fps-and-visual-fixes-patch-collection.37996/): patchanon / somerandompeople / ChucksFeedAndSeed  
 - [**Shadow Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed  
-- [**Black Screen Fix**](https://www.youtube.com/watch?v=dQw4w9WgXcQ): MarethyuX  
+- [**Black Screen Fix**](https://www.youtube.com/watch?v=dQw4w9WgXcQ): MarethyuX / port 1.0.0 by StevenssND  
 - [**Alerion921's DualSense v11.5/v12.2/v12.3**](https://gamebanana.com/mods/443201): Alerion921  
 - [**Alerion921's Xbox v9**](https://gamebanana.com/mods/443354): Alerion921  
 - [**Alerion921's Steam Controller**](https://gamebanana.com/mods/448437): Alerion921  
