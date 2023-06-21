@@ -18,7 +18,7 @@ Provide users with an easy method to select which mods they want to use. Mods ar
 - **Cheats:** Game too hard or you aren't having fun? Some cheats might liven things up. All cheats are obviously optional. AFAIK, they are in a Yuzu compatible format and won't work with Ryujinx. Go [here](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom) for Ryujinx.
 
 # Downloading
-- Click the green **Code** button, and click **Download Zip**. There will be no "releases" of this collection.
+- Click the green **Code** button, and click **Download Zip**. There will be no "releases" of this collection. See the top of this page for the last date relevant changes were made.
 
 # Information
 - A simplified modpack that includes what I consider to be the essential mods offered in an organized manner.
