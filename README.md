@@ -2,9 +2,13 @@
 ```html
 <<- Last Update With Relevant Changes: June 21, 2023 (black screen fix, 810p, cheats for 1.0.0) ->>
 ```
-This is a collection of useful mods I am sharing with everyone so they can know which mods exist and easily install in an organized manner. All mods are seperate and named to provide an abundance of information at a glance.
+This is a collection of useful mods I am sharing with everyone so they can know which mods exist and easily install in an organized manner. All mods are seperate and named to provide an abundance of information at a glance. 
 
 ![](https://raw.githubusercontent.com/BigheadSMZ/TotKMods/main/preview.jpg)
+
+This collection attempts to provide the most useful mods, but does not contain everything that the HolographicWings collection does. This is another great resource for TotK mods so check it out too and decide which better fits your needs.​
+
+https://github.com/HolographicWings/TOTK-Mods-collection
 
 # Purpose
 Provide users with an easy method to select which mods they want to use. Mods are broken into eight categories.  
