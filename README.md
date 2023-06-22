@@ -74,7 +74,7 @@ Provide users with an easy method to select which mods they want to use. Mods ar
 - [**Xbox UI v2-0.8.2**](https://gamebanana.com/mods/443336): balinwon  
 - [**Serfrost's Defogger**](https://gamebanana.com/mods/446995): Serfrost  
 - [**Better Fog / Fog Disabled**](https://gamebanana.com/mods/447492): yakuzadeso  
-- [**Autobuild No Cost**](https://gamebanana.com/mods/449749): Jazzverso  
+- [**Autobuild No Cost**](https://gamebanana.com/mods/449615): Jazzverso / igic
 - [**Auto-Loot Zonaite**](https://gamebanana.com/mods/445703): Ghuraok  
 - [**Camera Sensitivity**](https://gamebanana.com/mods/443927): TallgeeseIV    
 - [**Dialog Fixes**](https://gamebanana.com/mods/445178): verbes555
