@@ -1,6 +1,6 @@
 # The Legend of Zelda: Tears of the Kingdom <br> Modification Repository
 ```html
-<<- Last Update With Relevant Changes: June 21, 2023 (black screen fix, 810p, cheats for 1.0.0) ->>
+<<- Last Update With Relevant Changes: June 21, 2023 (black screen fix, 810p, cheats for 1.0.0, autobuild no-cost fix) ->>
 ```
 This is a collection of useful mods I am sharing with everyone so they can know which mods exist and easily install in an organized manner. All mods are seperate and named to provide an abundance of information at a glance. 
 
