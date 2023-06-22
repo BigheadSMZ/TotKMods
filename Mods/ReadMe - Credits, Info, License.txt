@@ -193,8 +193,8 @@ Information:
 06 - Other Mods - Install whichever of these you want.
 
   Autobuild No Cost  
-  - Jazzverso
-  - https://gamebanana.com/mods/449749
+  - Jazzverso / igic
+  - https://gamebanana.com/mods/449615
   - https://creativecommons.org/licenses/by-nc-nd/4.0/
   - exefs
 
