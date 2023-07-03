@@ -1,4 +1,4 @@
-[Time Fast Forward (ZL + R3Left)]
+[Time Fast Forward (ZL + R3 Right)]
 040E0000 00AE3144 BD403E68
 80400100
 040E0000 00AE3144 1E27D008
