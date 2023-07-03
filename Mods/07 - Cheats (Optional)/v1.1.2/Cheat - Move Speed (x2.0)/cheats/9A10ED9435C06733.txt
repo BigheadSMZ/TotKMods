@@ -1,2 +1,2 @@
-[#26c Movement Speed (2x) ★]
+[Movement Speed (2x)]
 040E0000 03875058 40000000
