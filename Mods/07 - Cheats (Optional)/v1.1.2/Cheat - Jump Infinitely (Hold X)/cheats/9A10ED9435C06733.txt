@@ -1,4 +1,4 @@
-[#22. Hold (X) Moon Jump]
+[Jump Infinitely (Hold X)]
 580F0000 0471A7D0
 580F1000 000000C8
 580F1000 00000178
