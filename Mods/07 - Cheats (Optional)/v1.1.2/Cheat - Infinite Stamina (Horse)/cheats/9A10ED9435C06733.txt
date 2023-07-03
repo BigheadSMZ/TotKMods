@@ -1,2 +1,2 @@
-[#06. Inf. Horse Stamina]
+[Infinite Horse Stamina]
 040E0000 01CB0224 D503201F
