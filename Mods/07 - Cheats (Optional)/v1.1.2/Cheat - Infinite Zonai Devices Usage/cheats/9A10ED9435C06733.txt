@@ -1,2 +1,2 @@
-[#33. Inf. Zonai Devices]
+[Infinite Zonai Devices]
 040E0000 01A6C51C 2A1F03E1
