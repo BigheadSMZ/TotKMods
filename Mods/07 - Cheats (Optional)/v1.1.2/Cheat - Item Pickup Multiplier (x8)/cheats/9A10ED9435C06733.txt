@@ -1,2 +1,2 @@
-[Item Pickup Multiplier (8x)]
+[Item Pickup Multiplier (x8)]
 040E0000 0162F888 52800101
