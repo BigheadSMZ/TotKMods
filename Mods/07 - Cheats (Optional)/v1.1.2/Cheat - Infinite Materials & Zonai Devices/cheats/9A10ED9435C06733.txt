@@ -1,4 +1,4 @@
-[#37. Inf. Materials & Zonai Devices (Set To Minimum Qty.500)]
+[Infinite Materials & Zonai Devices (Set To Minimum Qty.500)]
 080E0000 02B17F1C 177584DF F9401508
 080E0000 02B17F14 177584E4 B8695908
 080E0000 02B17F0C B8295904 5400004C
