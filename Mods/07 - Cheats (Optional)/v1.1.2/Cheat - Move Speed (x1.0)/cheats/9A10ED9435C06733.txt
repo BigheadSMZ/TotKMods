@@ -1,2 +1,2 @@
-[Movement Speed (1x)]
+[Movement Speed (x1)]
 040E0000 03875058 3F800000
