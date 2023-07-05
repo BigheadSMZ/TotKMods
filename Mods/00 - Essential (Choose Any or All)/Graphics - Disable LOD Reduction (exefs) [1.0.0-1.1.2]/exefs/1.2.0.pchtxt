@@ -1,0 +1,9 @@
+@nsobid-6F32C68DD3BC7D77AA714B80E92A096A737CDA77
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Disable quality reduction when framerate dips. Ported to v1.2.0 by Stevens
+@enabled
+00c4275c C0000014
+@stop
