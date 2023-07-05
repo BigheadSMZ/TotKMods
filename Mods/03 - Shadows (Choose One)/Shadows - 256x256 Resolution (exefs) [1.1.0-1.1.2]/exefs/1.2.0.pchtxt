@@ -1,0 +1,23 @@
+@nsobid-6F32C68DD3BC7D77AA714B80E92A096A737CDA77
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Shadows Resolution. Ported to v1.2.0 by Stevens
+@enabled
+00ccd368 0B208052
+00ccd36c 17000014
+@stop
+
+// Options for shadow resolution (may effect cascade distance)
+// | Code              | Resolution |
+// |:-----------------:|:----------:|
+// | 00ccd368 0B018052 | 8          |
+// | 00ccd368 0B028052 | 16         |
+// | 00ccd368 0B048052 | 32         |
+// | 00ccd368 0B088052 | 64         |
+// | 00ccd368 0B108052 | 128        |
+// | 00ccd368 0B208052 | 256        |
+// | 00ccd368 0B408052 | 512        |
+// | 00ccd368 0B808052 | 1024       |
+// | 00ccd368 0B008152 | 2048       | (Crashes under certain conditions! Use 1024 if you encounter this)
