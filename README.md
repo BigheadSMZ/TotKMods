@@ -1,6 +1,6 @@
 # The Legend of Zelda: Tears of the Kingdom <br> Modification Repository
 ```html
-<<- Last Update With Relevant Changes: July 3, 2023 (Cleaned up 1.1.2 Cheats) ->>
+<<- Last Update With Relevant Changes: July 6, 2023 (Added 1.2.0 Mods) ->>
 ```
 This is a collection of useful mods I am sharing with everyone so they can know which mods exist and easily install in an organized manner. All mods are seperate and named to provide an abundance of information at a glance. 
 
@@ -57,16 +57,16 @@ Provide users with an easy method to select which mods they want to use. Mods ar
 - [**Disable FXAA**](https://www.reddit.com/r/128bitbay/comments/149h87n/totk_disable_fxaa_exefs_patch_method_110_through/): OldManKain / theboy181 / InfiniteParallel / Father_Of_Egg  
 - [**Disable LOD Reduction**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed 
 - [**Disable Targeting DOF**](https://github.com/theboy181/switch-ptchtxt-mods): theboy181
-- [**Remove Lens Flare**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / port 1.0.0 by MaxLastBreath / port 1.1.1 by StevenssND  
-- [**LOD Improvement**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / port 1.1.1 by StevenssND
-- [**Sky Island Fix**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / port 1.0.0 by MaxLastBreath / port 1.1.1 byStevenssND
+- [**Remove Lens Flare**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / MaxLastBreath / by StevenssND  
+- [**LOD Improvement**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / by StevenssND
+- [**Sky Island Fix**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / MaxLastBreath / byStevenssND
 - [**1280x720 Resolution**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea  
 - [**1440x810 Resolution**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea  
-- [**1792x1008 Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed / port 1.0.0 by MaxLastBreath 
+- [**1792x1008 Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed / MaxLastBreath 
 - [**1920x1080 Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed / OldManKain / MaxLastBreath
 - [**20/30/60 FPS**](https://gbatemp.net/download/loz-tears-of-the-kingdom-dynamic-fps-static-fps-and-visual-fixes-patch-collection.37996/): patchanon / somerandompeople / ChucksFeedAndSeed  
 - [**Shadow Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed  
-- [**Black Screen Fix**](https://www.youtube.com/watch?v=dQw4w9WgXcQ): MarethyuX / port 1.0.0 by StevenssND  
+- [**Black Screen Fix**](https://www.youtube.com/watch?v=dQw4w9WgXcQ): MarethyuX / StevenssND  
 - [**Alerion921's DualSense v11.5/v12.2/v12.3**](https://gamebanana.com/mods/443201): Alerion921  
 - [**Alerion921's Xbox v9**](https://gamebanana.com/mods/443354): Alerion921  
 - [**Alerion921's Steam Controller**](https://gamebanana.com/mods/448437): Alerion921  
