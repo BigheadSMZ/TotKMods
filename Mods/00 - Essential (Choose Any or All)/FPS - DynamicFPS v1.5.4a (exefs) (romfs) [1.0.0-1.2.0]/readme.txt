@@ -1,4 +1,4 @@
-TotK DynamicFPS 1.5.4 by /u/ChucksFeedAndSeed
+TotK DynamicFPS 1.5.4a by /u/ChucksFeedAndSeed
 Check https://www.reddit.com/user/ChucksFeedAndSeed/ for updates.
 
 To enable DynamicFPS ensure the "DynamicFPS - #1-0 - v1.5.4 (Required)" mod folder is enabled in your emulator.
