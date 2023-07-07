@@ -1,6 +1,6 @@
 # The Legend of Zelda: Tears of the Kingdom <br> Modification Repository
 ```html
-<<- Last Update With Relevant Changes: July 6, 2023 (Added 1.2.0 Mods) ->>
+<<- Last Update With Relevant Changes: July 7, 2023 (Added 1.2.0 Mods) ->>
 ```
 This is a collection of useful mods I am sharing with everyone so they can know which mods exist and easily install in an organized manner. All mods are seperate and named to provide an abundance of information at a glance. 
 
