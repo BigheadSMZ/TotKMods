@@ -1,0 +1,2 @@
+[Item Pickup Multiplier (x8)]
+040E0000 0161C298 52800101
