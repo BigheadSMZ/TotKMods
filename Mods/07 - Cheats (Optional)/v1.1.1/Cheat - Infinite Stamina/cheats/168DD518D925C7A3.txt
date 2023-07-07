@@ -1,0 +1,2 @@
+[Infinite Stamina]
+040E0000 00746D20 BD405E61
