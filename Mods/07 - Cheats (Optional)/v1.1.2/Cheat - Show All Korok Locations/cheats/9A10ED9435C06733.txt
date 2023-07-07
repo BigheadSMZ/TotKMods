@@ -1,0 +1,2 @@
+[Show All Korok Locations]
+040E0000 00D32310 14000019
