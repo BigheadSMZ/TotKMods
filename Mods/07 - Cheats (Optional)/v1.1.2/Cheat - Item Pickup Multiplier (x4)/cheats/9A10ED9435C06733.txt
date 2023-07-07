@@ -1,2 +1,0 @@
-[Item Pickup Multiplier (x4)]
-040E0000 0162F888 52800081

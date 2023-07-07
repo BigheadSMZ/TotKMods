@@ -1,2 +1,0 @@
-[Infinite Zonai Device Duration]
-040E0000 0126C19C 1E2703E1

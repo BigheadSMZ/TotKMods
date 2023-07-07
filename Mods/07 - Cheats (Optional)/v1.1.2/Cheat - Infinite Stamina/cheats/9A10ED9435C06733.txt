@@ -1,2 +1,0 @@
-[Infinite Stamina]
-040E0000 0082C56C 1E204041
