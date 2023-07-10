@@ -1,5 +1,5 @@
-Simplified TotK Modpack
-Credit goes to authors of all mods
+BigheadSMZ TotKMods - A Simplified Mod Pack
+All credit goes to the authors of all their respective mods / updates / ports.
 
 Information:
 - A simplified modpack that includes what I consider to be the essential mods.
@@ -17,33 +17,33 @@ Information:
 
   Dynamic FPS
   - ChucksFeedAndSeed
-  - https://www.reddit.com/user/ChucksFeedAndSeed/comments/140nyft/totk_dynamic_fps_v152_release_stutter/
-  - exefs
+  - https://www.reddit.com/user/ChucksFeedAndSeed/comments/14t5lk1/release_totk_dynamic_fps_v154_support_for_v120/
+  - exefs/romfs
 
   Yuzu Anisotropic Filtering Fix
-  - Wollnashorn
+  - Wollnashorn / StevenssND 
   - https://github.com/Wollnashorn/switch-mods/tree/master/0100F2C0115B6000
   - exefs
 
   Disable FSR Downscaling
-  - patchanon / ChucksFeedAndSeed
+  - patchanon / ChucksFeedAndSeed / StevenssND 
   - https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/
   - https://ko-fi.com/ChucksFeedAndSeed
   - exefs
   
   Disable FXAA
-  - OldManKain / theboy181 / InfiniteParallel / Father_Of_Egg 
+  - OldManKain / theboy181 / InfiniteParallel / Father_Of_Egg / StevenssND 
   - https://www.reddit.com/r/128bitbay/comments/149h87n/totk_disable_fxaa_exefs_patch_method_110_through/
   - exefs
   
   Disable LOD Reduction
-  - ChucksFeedAndSeed
+  - ChucksFeedAndSeed / StevenssND 
   - https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/
   - https://ko-fi.com/ChucksFeedAndSeed
   - exefs
 
   Disable Targeting DOF
-  - theboy181
+  - theboy181 / StevenssND 
   - exefs
   
   LOD Improvement
@@ -55,9 +55,9 @@ Information:
   - SweetMini / MaxLastBreath / StevenssND
   - exefs
 
-  Sky Island Fix 
-  - SweetMini / MaxLastBreath / StevenssND
-  - https://github.com/HolographicWings/TOTK-Mods-collection
+  Sky Island Proper Fix 
+  - PixelKiri / theboy181 / byStevenssND
+  - https://www.reddit.com/r/128bitbay/comments/14u58k4/totk_sky_island_proper_fix/
   - exefs
 
 01 - Resolution - Only copy a single mod from this folder.
@@ -68,23 +68,28 @@ Information:
   - cheat
 
   1792x1008
-  - ChucksFeedAndSeed
+  - ChucksFeedAndSeed / StevenssND / MaxLastBreath
   - https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/
   - https://ko-fi.com/ChucksFeedAndSeed
   - exefs
   
-  1920x1080
-  - ChucksFeedAndSeed / OldManKain
+  1920x1080 / StevenssND
+  - ChucksFeedAndSeed / OldManKain / StevenssND / MaxLastBreath
   - https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/
   - https://ko-fi.com/ChucksFeedAndSeed
   - exefs
 
 02 - FPS - Only copy a single mod from this folder.
 
-  20/30/60 FPS
+  20/30/60 Static FPS
   - patchanon / somerandompeople / ChucksFeedAndSeed
   - https://gbatemp.net/download/loz-tears-of-the-kingdom-dynamic-fps-static-fps-and-visual-fixes-patch-collection.37996/
   - exefs
+
+  20/30/45/60 FPS for DynamicFPS
+  - ChucksFeedAndSeed
+  - https://www.reddit.com/user/ChucksFeedAndSeed/comments/14t5lk1/release_totk_dynamic_fps_v154_support_for_v120/
+  - romfs
 
 03 - Shadow Resolution - Only copy a single mod from this folder.
 
@@ -98,12 +103,14 @@ Information:
   
   Black Screen Fix
   - MarethyuX
+  - romfs
   -- \UI\LayoutArchive\Common.Product.110.Nin_NX_NVN.blarc.zs
 
   Alerion921's DualSense v11.5/v12.2/v12.3
   - Alerion921
   - https://gamebanana.com/mods/443201
   - https://creativecommons.org/licenses/by-nc-nd/4.0/
+  - romfs
   -- \Font\Font.Nin_NX_NVN.bfarc.zs
   -- \Font\Font_CNzh.Nin_NX_NVN.bfarc.zs
   -- \Font\Font_KRko.Nin_NX_NVN.bfarc.zs
@@ -114,6 +121,7 @@ Information:
   - Alerion921
   - https://gamebanana.com/mods/443354
   - https://creativecommons.org/licenses/by-nc-nd/4.0/
+  - romfs
   -- \Font\Font.Nin_NX_NVN.bfarc.zs
   -- \Font\Font_CNzh.Nin_NX_NVN.bfarc.zs
   -- \Font\Font_KRko.Nin_NX_NVN.bfarc.zs
@@ -124,6 +132,7 @@ Information:
   - Alerion921
   - https://gamebanana.com/mods/448437
   - https://creativecommons.org/licenses/by-nc-nd/4.0/
+  - romfs
   -- \Font\Font.Nin_NX_NVN.bfarc.zs
   -- \Font\Font_CNzh.Nin_NX_NVN.bfarc.zs
   -- \Font\Font_KRko.Nin_NX_NVN.bfarc.zs
@@ -135,6 +144,7 @@ Information:
   - Alerion921
   - https://gamebanana.com/mods/447721
   - https://creativecommons.org/licenses/by-nc-nd/4.0/
+  - romfs
   -- \Font\Font.Nin_NX_NVN.bfarc.zs
   -- \Font\Font_CNzh.Nin_NX_NVN.bfarc.zs
   -- \Font\Font_KRko.Nin_NX_NVN.bfarc.zs
@@ -156,6 +166,7 @@ Information:
   - leondre14
   - https://gamebanana.com/mods/449427
   - https://creativecommons.org/licenses/by-nc-nd/4.0/
+  - romfs
   -- \Font\Font.Nin_NX_NVN.bfarc.zs
   -- \Font\Font_CNzh.Nin_NX_NVN.bfarc.zs
   -- \Font\Font_KRko.Nin_NX_NVN.bfarc.zs
@@ -178,6 +189,7 @@ Information:
   - Serfrost
   - https://gamebanana.com/mods/446995
   - https://creativecommons.org/licenses/by-nc-nd/4.0/
+  - romfs
   -- Pack\Bootup.Nin_NX_NVN.pack.zs
   -- Pack\CavePalette.pack.zs
   -- Pack\EnvPalette.pack.zs
@@ -186,11 +198,19 @@ Information:
   - yakuzadeso
   - https://gamebanana.com/mods/447492
   - https://creativecommons.org/licenses/by-nc-nd/4.0/
+  - romfs
   -- Pack\Bootup.Nin_NX_NVN.pack.zs
   -- Pack\CavePalette.pack.zs
   -- Pack\EnvPalette.pack.zs
-  
-06 - Other Mods - Install whichever of these you want.
+
+06 - Sky Island Proper Fix
+
+  Sky Island Fix (2x/3x/4x/5x/6x/7x/8x IR)
+  - PixelKiri
+  - https://www.reddit.com/user/PixelKiri/comments/14u57mr/totk_sky_island_proper_fix/
+  - exefs
+
+07 - Other Mods - Install whichever of these you want.
 
   Autobuild No Cost  
   - Jazzverso / igic
@@ -201,21 +221,21 @@ Information:
   Auto-Loot Zonaite
   - Ghuraok
   - https://gamebanana.com/mods/445703
+  - romfs
   -- \Event\EventFlow\Npc_Zonau_Golem_Servant_FirstIsland_21.bfevfl.zs
   -- \Event\EventFlow\Npc_Zonau_Golem_Servant_Minus0012.bfevfl.zs
   -- \Pack\Actor\Item_Ore_L.pack.zs
   -- \Pack\Actor\Item_Ore_M.pack.zs
 
-  Camera Sensitivity           
-  - TallgeeseIV 
-  - https://gamebanana.com/mods/443927
-  - https://creativecommons.org/licenses/by-nc-nd/4.0/
-  -- \Pack\Actor\PlayerCamera.pack.zs
+  Camera Speed Increase
+  - theboy181 / StevenssND
+  - exefs
 
   Dialog Fixes
   - verbes555
   - https://gamebanana.com/mods/445178
   - https://creativecommons.org/licenses/by-nc-nd/4.0/
+  - romfs
   -- \Mals\EUen.Product.110.sarc.zs
   -- \Mals\USen.Product.110.sarc.zs
 
@@ -223,12 +243,14 @@ Information:
   - jordanbtucker
   - https://gamebanana.com/mods/443894
   - https://opensource.org/license/mit/
+  - romfs
   -- \Pack\ResidentCommon.pack.zs
 
   Streamlined Reptitive Events
   - CptCarl
   - https://gamebanana.com/mods/446768
   - https://creativecommons.org/licenses/by-nc-nd/4.0/
+  - romfs
   -- \Event\EventFlow\Npc_CraftSignboard001.101.bfevfl.zs (Addison)
   -- \Event\EventFlow\Npc_TripMaster_00.bfevfl.zs (Beedle)
   -- \Event\EventFlow\TripMaster_ExchangeInsect.bfevfl.zs (Beedle)
@@ -256,4 +278,8 @@ Information:
   -- \Event\EventFlow\DmF_SY_SmallDungeonGoal.101.bfevfl.zs (Shrine Events)
   -- \Event\EventFlow\DmF_SY_RecycleBox.101.bfevfl.zs (Zonai Dispensers)
 
+08 - Cheats
 
+  All Available Cheats
+  - bad1dea
+  - https://github.com/bad1dea/NXCheats
