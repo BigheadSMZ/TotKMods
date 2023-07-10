@@ -60,7 +60,7 @@ Provide users with an easy method to select which mods they want to use. Mods ar
 - [**Disable Targeting DOF**](https://github.com/theboy181/switch-ptchtxt-mods): theboy181
 - [**Remove Lens Flare**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / MaxLastBreath / by StevenssND  
 - [**LOD Improvement**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / by StevenssND
-- [**Sky Island Fix**](https://github.com/HolographicWings/TOTK-Mods-collection): SweetMini / MaxLastBreath / byStevenssND
+- [**Sky Island Proper Fix**](https://www.reddit.com/r/128bitbay/comments/14u58k4/totk_sky_island_proper_fix/): PixelKiri / theboy181 / byStevenssND
 - [**1280x720 Resolution**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea  
 - [**1440x810 Resolution**](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom): bad1dea  
 - [**1792x1008 Resolution**](https://www.reddit.com/user/ChucksFeedAndSeed/comments/13sofgg/totk_v112_visual_patches_chuckpatch_fsr_disable/): ChucksFeedAndSeed / MaxLastBreath 
