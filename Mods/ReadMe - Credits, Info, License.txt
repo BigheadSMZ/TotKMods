@@ -218,15 +218,6 @@ Information:
   - https://creativecommons.org/licenses/by-nc-nd/4.0/
   - exefs
 
-  Auto-Loot Zonaite
-  - Ghuraok
-  - https://gamebanana.com/mods/445703
-  - romfs
-  -- \Event\EventFlow\Npc_Zonau_Golem_Servant_FirstIsland_21.bfevfl.zs
-  -- \Event\EventFlow\Npc_Zonau_Golem_Servant_Minus0012.bfevfl.zs
-  -- \Pack\Actor\Item_Ore_L.pack.zs
-  -- \Pack\Actor\Item_Ore_M.pack.zs
-
   Camera Speed Increase
   - theboy181 / StevenssND
   - exefs
