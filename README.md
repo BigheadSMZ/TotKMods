@@ -18,6 +18,7 @@ Provide users with an easy method to select which mods they want to use. Mods ar
 - **Shadows:** Modes are: 256x256, 512x512, and 1024x1024 resolution. Only one mod should be selected.  
 - **Controller & Black Screen Fix:** Controller mods come with black screen fix, or black screen fix can be selected alone. Only one mod should be selected. Alternatively, go use the [Any Aspect Ratio](https://github.com/fayaz12g/totk-aar) tool to create your own aspect ratio, controller mod, with black screen fix.
 - **Fog:** Options to minimize or disable fog. Only one mod should be selected, unless using Serfrost's Defogger which may be combined with an interior addon. This is optional, and other fog mods already include interior fog so don't combine them.
+- **Sky Island Fix:** Fixes lines around floating islands in the distance. Choose the version that matches the emulator's selected internal resolution multiplier.
 - **Other Mods:** Mods to enhance gameplay or make things faster. All of these are mods are completely optional.  
 - **Cheats:** Game too hard or you aren't having fun? Some cheats might liven things up. All cheats are obviously optional. AFAIK, they are in a Yuzu compatible format and won't work with Ryujinx. Go [here](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom) for Ryujinx.
 
