@@ -1,6 +1,6 @@
 # The Legend of Zelda: Tears of the Kingdom <br> Modification Repository
 ```html
-<<- Last Update With Relevant Changes: July 9, 2023 (Add PixelKiri Sky Island Proper Fix) ->>
+<<- Last Update With Relevant Changes: July 26, 2023 (Update DynamicFPS and No Loot Boxes) ->>
 ```
 This is a collection of useful mods I am sharing with everyone so they can know which mods exist and easily install in an organized manner. All mods are seperate and named to provide an abundance of information at a glance. 
 
@@ -23,7 +23,7 @@ Provide users with an easy method to select which mods they want to use. Mods ar
 - **Cheats:** Game too hard or you aren't having fun? Some cheats might liven things up. All cheats are obviously optional. AFAIK, they are in a Yuzu compatible format and won't work with Ryujinx. Go [here](https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom) for Ryujinx.
 
 # Downloading
-- Click [here](https://github.com/BigheadSMZ/TotKMods/releases/download/v4/TotKMods-July-9-2023.7z) to start downloading the latest release immediately.
+- Click [here](https://github.com/BigheadSMZ/TotKMods/releases/download/v5/TotKMods-July-26-2023.7z) to start downloading the latest release immediately.
 - You can also check the [Releases](https://github.com/BigheadSMZ/TotKMods/releases) page for a download link.
 - Alternatively, click the green **Code** button, and click **Download Zip**.
 
