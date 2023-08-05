@@ -1,6 +1,6 @@
 # The Legend of Zelda: Tears of the Kingdom <br> Modification Repository
 ```html
-<<- Last Update With Relevant Changes: July 26, 2023 (Update DynamicFPS and No Loot Boxes) ->>
+<<- Last Update With Relevant Changes: August 5, 2023 (Add DynamicFPS Shadow INIs) ->>
 ```
 This is a collection of useful mods I am sharing with everyone so they can know which mods exist and easily install in an organized manner. All mods are seperate and named to provide an abundance of information at a glance. 
 
