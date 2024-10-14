@@ -1,3 +1,6 @@
+# NOTE: SEVERELY OUTDATED
+It has been some time since I updated this repo. I have no idea what mods are actually available at this time. I suggest looking elsewhere for a more up-to-date collection.
+
 # The Legend of Zelda: Tears of the Kingdom <br> Modification Repository
 ```html
 <<- Last Update With Relevant Changes: August 5, 2023 (Add DynamicFPS Shadow INIs) ->>
